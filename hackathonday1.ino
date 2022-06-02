@@ -1,6 +1,6 @@
 int trigPin0 = 13;
 int echoPin0 = 12;
-
+// bruh
 int trigPin1 = 11;
 int echoPin1= 10;
 
